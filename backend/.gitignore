@@ -1,0 +1,4 @@
+#módulos que não serão enviados ao git
+
+node_modules 
+#(muito pesado, padrão não enviar)
